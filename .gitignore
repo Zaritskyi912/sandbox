@@ -4,10 +4,6 @@
 # ignore cache/ in root dir
 /cache/
 
-# ignore all .txt file, except readme.txt
-*.txt
-!readme.txt
-
 # ignore all debug_*.log files
 debug_*.log 
 
